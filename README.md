@@ -1,2 +1,2 @@
 # node-queue
- A simple queue implementation in Node.js
+ A simple queue implementation using RabbitMQ and Nodejs
